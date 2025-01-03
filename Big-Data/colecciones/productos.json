@@ -1,0 +1,62 @@
+[
+    {
+        "_id": 1,
+        "nombre": "Camiseta",
+        "precio": 20.99,
+        "descripcion": "Camiseta de algodón de manga corta"
+    },
+    {
+        "_id": 2,
+        "nombre": "Pantalón",
+        "precio": 45.5,
+        "descripcion": "Pantalón vaquero de ajuste regular"
+    },
+    {
+        "_id": 3,
+        "nombre": "Zapatos",
+        "precio": 80.0,
+        "descripcion": "Zapatos deportivos para correr"
+    },
+    {
+        "_id": 4,
+        "nombre": "Sombrero",
+        "precio": 15.75,
+        "descripcion": "Sombrero de ala ancha para el verano"
+    },
+    {
+        "_id": 5,
+        "nombre": "Vestido",
+        "precio": 65.25,
+        "descripcion": "Vestido elegante de noche"
+    },
+    {
+        "_id": 6,
+        "nombre": "Chaqueta",
+        "precio": 95.99,
+        "descripcion": "Chaqueta de cuero para motociclista"
+    },
+    {
+        "_id": 7,
+        "nombre": "Gafas de sol",
+        "precio": 25.0,
+        "descripcion": "Gafas de sol polarizadas"
+    },
+    {
+        "_id": 8,
+        "nombre": "Bolso",
+        "precio": 50.49,
+        "descripcion": "Bolso de mano de cuero sintético"
+    },
+    {
+        "_id": 9,
+        "nombre": "Reloj",
+        "precio": 120.75,
+        "descripcion": "Reloj de pulsera resistente al agua"
+    },
+    {
+        "_id": 10,
+        "nombre": "Bufanda",
+        "precio": 30.0,
+        "descripcion": "Bufanda de lana suave y cálida"
+    }
+]

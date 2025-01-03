@@ -1,0 +1,1419 @@
+"id";"feedback";"template";"name";"label";"presentation";"typ";"hasvalue";"position";"required";"dependitem";"dependvalue";"options"
+"1";"1";"0";"label";;"<p align=""center""><strong>SISTEMA DE GESTIÓN DE CALIDAD - ENCUESTA DE SATISFACCIÓN DEL PROFESORADO</strong></p>
+<p align=""center""><img hspace=""0"" height=""120"" width=""660"" border=""0"" src=""http://www.fpmislata.com/logos/logo_completo_660x120.png"" alt=""CIPFP Mislata"" title=""CIPFP Mislata""></p>
+<p align=""left""> </p><p align=""left"">  <table cellspacing=""1"" cellpadding=""1"" border=""1"" width=""900""><tbody>    <tr>      <td width=""50%"" valign=""top"" colspan=""2"">        <h6 align=""left""><font size=""3"" color=""#003366"">La encuesta es totalmente anónima y sus resultados se utilizarán únicamente con la intención de mejorar el centro.</font></h6>        <h6 align=""left""><font size=""3"" color=""#003366"">Si lo deseas puedes dejar cualquiera de las cuestiones sin contestar.</font></h6>        <h6 align=""left""><font size=""3"" color=""#003366"">Gracias por tu colaboración.</font></h6>      </td>    </tr>    <tr>      <td width=""50%"" valign=""top""><address><font size=""2""></font><font color=""#003366""> </font></address><address><font size=""2"" color=""#003366"">Debes responder con un único valor (de 0 a 10) a cada una de las siguientes cuestiones.</font></address>      </td>      <td width=""50%"" valign=""top"">        <blockquote style=""margin-right: 0px;"" dir=""ltr""><address><font size=""2""></font><font color=""#003366""> </font></address><address style=""font-style: italic;""><font size=""2"" color=""#003366"">0 - Nada de acuerdo</font></address><span style=""font-style: italic;"">...<br /></span><font size=""2"" color=""#003366"" style=""font-style: italic;"">10 - Totalmente de acuerdo</font></blockquote>      </td>    </tr></tbody>  </table></p><p align=""left""><font color=""#003366""> </font></p>";"label";"0";"1";"0";"0";;
+"2";"1";"0";"DEPARTAMENT O FAMÍLIA PROFESSIONAL A LA QUE PERTANYS (resposta obligatòria)";;"d>>>>>1####ADMINISTRACIÓN DE EMPRESAS|2####COMERCIO Y MÁRKETING|3####FOL|4####IDIOMAS|5####INFORMÁTICA|6####ÓPTICA|7####ORIENTACIÓN|8####TURISMO|9####SANIDAD";"multichoicerated";"1";"2";"1";"0";;"h"
+"3";"1";"0";"label";;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">GESTIÓ DIRECTIVA</font></strong></p>         <p align=""left""><font color=""#003366"" size=""2""><em>Quin és el teu grau de satisfacció respecte a les següents qüestions?</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"3";"0";"0";;
+"4";"1";"0";"1. La gestió del centre i la implicació de l'equip directiu en la millora del centre";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"4";"0";"0";;
+"5";"1";"0";"2. La capacitat de l'equip directiu per a implicar al personal docent en la millora del centre";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"5";"0";"0";;
+"6";"1";"0";"3. La facilitat per a comunicar-te amb l'equip directiu";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"6";"0";"0";;
+"7";"1";"0";"label";;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">ORGANITZACIÓ DEL CENTRE</font></strong></p>         <p align=""left""><font color=""#003366"" size=""2""><em>Quin és el teu grau de satisfacció respecte a les següents qüestions?</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"7";"0";"0";;
+"8";"1";"0";"4. (En cas de haber fet desiderata). L' horari s'adjusta a la teua desiderata";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"8";"0";"0";;
+"9";"1";"0";"5. La agupació horaria dels moduls és adecuada";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"9";"0";"0";;
+"10";"1";"0";"label";;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">PROJECTE EDUCATIU I PROGRAMACIÓ ANUAL</font></strong></p>         <p align=""left""><font color=""#003366"" size=""2""><em>Quina és la teua percepció respecte a ... ?</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"10";"0";"0";;
+"11";"1";"0";"6. El teu grau de participació a l'elaboració del projecte educatiu del centre";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"11";"0";"0";;
+"12";"1";"0";"7. El grau de consecució dels objectius marcats a la programació general anual";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"12";"0";"0";;
+"13";"1";"0";"label";;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><font color=""#003366""><strong>SECRETARIA I ADMINISTRACIÓ</strong> </font></p>         <p align=""left""><font color=""#003366"" size=""2""><em>Com valores els següents aspectes de funcionament?</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"13";"0";"0";;
+"14";"1";"0";"8. L'atenció del personal de secretària i administració";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"14";"0";"0";;
+"15";"1";"0";"9. L'atenció del personal de consergeria";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"15";"0";"0";;
+"16";"1";"0";"label";;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">INSTAL·LACIONS</font></strong></p>         <p align=""left""><font color=""#003366"" size=""2""><em>Valora el teu nivell de satisfacció amb l'estat de:</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"16";"0";"0";;
+"17";"1";"0";"10. Els tallers i laboratoris";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"17";"0";"0";;
+"18";"1";"0";"11. Les aules i el seu equipament didàctic";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"18";"0";"0";;
+"19";"1";"0";"12. Les zones comuns del centre (corredors, jardins, patis)";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"19";"0";"0";;
+"20";"1";"0";"Indica el teu grau de satisfacció amb el servici de cafeteria del centre";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"20";"0";"0";;
+"21";"1";"0";"label";;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">TASCA DOCENT</font></strong></p>         <p align=""left""><font color=""#003366"" size=""2""><em>Com valores els següents ítems:</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"21";"0";"0";;
+"22";"1";"0";"13. El nivell acadèmic dels ensenyaments que imparteixes";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"22";"0";"0";;
+"23";"1";"0";"14. L'aprofitament dels materials didàctics, equips i noves tecnologies a l'aula";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"23";"0";"0";;
+"24";"1";"0";"15. El nivell d'actualització dels teus coneixements a les matèries que imparteixes";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"24";"0";"0";;
+"25";"1";"0";"16. El reconeixement al teu treball i esforç per part del departament";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"25";"0";"0";;
+"26";"1";"0";"17. El reconeixement al teu treball i esforç per part de l'equip educatiu";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"26";"0";"0";;
+"27";"1";"0";"18. El reconeixement al teu treball i esforç per part de l'alumnat";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"27";"0";"0";;
+"28";"1";"0";"19. El treball en equip que es desenvolupa al centre";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"28";"0";"0";;
+"29";"1";"0";"20. El recolzament a les iniciatives del professorat";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"29";"0";"0";;
+"30";"1";"0";"label";;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">FORMACIÓ DEL PROFESSORAT</font></strong></p>         <p align=""left""><font color=""#003366"" size=""2""><em>Valora:</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"30";"0";"0";;
+"31";"1";"0";"21. Facilitat per a participar a les accions formatives";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"31";"0";"0";;
+"32";"1";"0";"22. Facilitat per a proposar accions formatives al centre";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"32";"0";"0";;
+"33";"1";"0";"23. Indica en quins aspectes has fet formació aquest curs:";;"c>>>>>Cap
+|Específica de la meua especialitat
+|Llengües
+|Metodologia / didàctica
+|Gestió i organització de centres
+|Altra titulació Universitària (Indica quina a continuació)
+|Altra (Indica quina a continuació)";"multichoice";"1";"33";"0";"0";;"h"
+"34";"1";"0";"Indica les altres accions formatives:";;"75|3";"textarea";"1";"34";"0";"0";;
+"35";"1";"0";"24. La formació realitzada ha sigut útil per a millorar l'activitat docent";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"35";"0";"0";;
+"36";"1";"0";"25. Indica les teues necessitats formatives per al proper curs";;"75|8";"textarea";"1";"36";"0";"0";;
+"37";"1";"0";"label";;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">ACCIÓ TUTORIAL</font></strong></p>         <p align=""left""><font color=""#003366"" size=""2""><em>Què opines en relació amb ...?</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"37";"0";"0";;
+"38";"1";"0";"26. El Pla d'acció tutorial (deixar en blanc si no eres tutor)";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"38";"0";"0";;
+"39";"1";"0";"27. L'interès dels temes tractats a les tutories (deixar en blanc si no eres tutor)";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"39";"0";"0";;
+"40";"1";"0";"28. La coordinació amb l'equip d'orientació per a l'atenció de necessitats educatives especials";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"40";"0";"0";;
+"41";"1";"0";"29. El recolzament donat per l'equip d'orientació";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"41";"0";"0";;
+"42";"1";"0";"label";;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">CONVIVÈNCIA</font></strong></p>         <p align=""left""><font color=""#003366"" size=""2""><em>Què opines sobre ...?</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"42";"0";"0";;
+"43";"1";"0";"30. La relació i ambient en el centre";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"43";"0";"0";;
+"44";"1";"0";"31. El recolzament que reps per part del centre front als conflictes a l'aula";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"44";"0";"0";;
+"45";"1";"0";"label";;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">QUALITAT</font></strong></p>         <p align=""left""><font color=""#003366"" size=""2""><em>Valora els següents ítems:</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"45";"0";"0";;
+"46";"1";"0";"32. La facilitat d'accés a la informació que es genera al sistema de gestió de qualitat";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"46";"0";"0";;
+"47";"1";"0";"33. La gestió de l'equip de qualitat per a la millora del centre";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"47";"0";"0";;
+"48";"1";"0";"label";;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">SATISFACCIÓ</font></strong></p>         <p align=""left""><font color=""#003366"" size=""2""><em>Valora els següents ítems:</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"48";"0";"0";;
+"49";"1";"0";"34. Recomanaries el centre a un altre docent";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"49";"0";"0";;
+"50";"1";"0";"35. Recomanaries el centre a un familiar i/o amic/ga per a que el seu fill/a estudie a este centre";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"50";"0";"0";;
+"51";"1";"0";"label";;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">COMUNICACIÓ</font></strong></p>         <p align=""left""><font color=""#003366"" size=""2""><em>Quin és el teu grau de satisfacció respecte a les següents qüestions?</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"51";"0";"0";;
+"52";"1";"0";"36. La informació proporcionada al personal docent sobre les activitats i funcionament del centre";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"52";"0";"0";;
+"53";"1";"0";"label";;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">INNOVACIÓ I TECNOLOGIA</font></strong></p>         <p align=""left""><font color=""#003366"" size=""2""><em>Quin és el teu grau de satisfacció respecte a les següents qüestions?</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"53";"0";"0";;
+"54";"1";"0";"37. El centre facilita l'us de les noves tecnològies";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"54";"0";"0";;
+"55";"1";"0";"38. El centre dinamitza la innovació en la tasca docent";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"55";"0";"0";;
+"56";"1";"0";"39. Marca únicament dos qüestions que consideres les més importants a la vida del centre";;"c>>>>>Que el centre estiga ben dirigit, organitzat i tinga prestigi
+|Que les instal·lacions del centre siguen bones
+|Que existisca voluntat de treball en equip i compromís amb la millora del centre
+|Que el nivell de la formació que s'imparteix al centre siga alt i competitiu
+|Que no existisquen problemes disciplinaris i oferisca un bon ambient de treball";"multichoice";"1";"56";"0";"0";;"h"
+"57";"1";"0";"label";;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%""><strong><font color=""#003366"">COMENTARIS / SUGGERIMENTS</font></strong> </font></font>       </td>     </tr></tbody>   </table></p>";"label";"0";"57";"0";"0";;
+"58";"1";"0";"40. Escriu lliurement qualsevol comentari o suggeriment que vulgues fer respecte de les qüestions tractades en aquesta enquesta";;"75|8";"textarea";"1";"58";"0";"0";;
+"118";"2";"0";;;"<p align=""center""><strong>SISTEMA DE GESTIÓN DE CALIDAD - ENCUESTA DE SATISFACCIÓN DEL ALUMNADO</strong></p>
+<p align=""center""><img hspace=""0"" height=""120"" width=""660"" border=""0"" src=""http://www.fpmislata.com/logos/logo_completo_660x120.png"" alt=""CIPFP Mislata"" title=""CIPFP Mislata""></p>
+<p align=""left""> </p><p align=""left"">  </p><table cellspacing=""1"" cellpadding=""1"" width=""900"" border=""1""><tbody><tr><td valign=""top"" width=""50%"" colspan=""2"">         <h6 align=""left"">La encuesta es totalmente anónima y sus resultados se utilizarán únicamente con la intención de mejorar el centro.</h6>         <h6 align=""left"">Si lo deseas puedes dejar cualquiera de las cuestiones sin contestar.</h6>         <h6 align=""left"">Gracias por tu colaboración.</h6>       </td>     </tr><tr><td valign=""top"" width=""50%""><address>&nbsp;</address><address>Debes responder con un único valor (de 0 a 10) a cada una de las siguientes cuestiones.</address>       </td>       <td valign=""top"" width=""50%"">         <blockquote dir=""ltr"" style=""margin-right:0px;""><address>&nbsp;</address><address>0 - Totalmente en desacuerdo</address><address>...</address><address>10 - Totalmente de acuerdo</address></blockquote>       </td>     </tr></tbody></table><p align=""left"">&nbsp;</p>";"label";"0";"1";"0";"0";;
+"119";"2";"0";"FAMILIA PROFESIONAL EN LA QUE ESTUDIAS (respuesta obligatoria)";;"d>>>>>1####ADMINISTRACIÓN DE EMPRESAS|2####COMERCIO Y MARKETING|3####INFORMÁTICA|4####TURISMO|5####SANIDAD|6####ÓPTICA";"multichoicerated";"1";"2";"1";"0";;
+"120";"2";"0";"¿Estudias Grado MEDIO o Grado SUPERIOR? (respuesta obligatoria)";;"d>>>>>1####Grado MEDIO|2####Grado SUPERIOR";"multichoicerated";"1";"3";"1";"0";;
+"121";"2";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">ACOGIDA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"4";"0";"0";;
+"122";"2";"0";"1. El centro pone todos los medios a su alcance para facilitar la incorporación de los alumnos al principio de curso";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"5";"0";"0";;
+"123";"2";"0";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">GESTIÓN DEL CENTRO</font></strong> </p>       </td>     </tr></tbody>   </table></p>";"label";"0";"6";"0";"0";;
+"124";"2";"0";"2. El equipo directivo actual trabaja para mejorar el centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"7";"0";"0";;
+"125";"2";"0";"3. Considero que el equipo directivo es accesible";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"8";"0";"0";;
+"126";"2";"0";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">COMUNICACIÓN</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"9";"0";"0";;
+"127";"2";"0";"4. El centro se preocupa por facilitarnos la información necesaria";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"10";"0";"0";;
+"128";"2";"0";"5. Existen en el centro suficientes medios para informar al alumnado";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"11";"0";"0";;
+"129";"2";"0";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">INNOVACIÓN Y TECNOLOGÍA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"12";"0";"0";;
+"130";"2";"0";"6. La plataforma moodle es útil";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"13";"0";"0";;
+"131";"2";"0";"7. La página web es de fácil uso";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"14";"0";"0";;
+"132";"2";"0";"8. La página web contiene información interesante";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"15";"0";"0";;
+"133";"2";"0";"9. En el centro se fomenta la innovación tecnológica";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"16";"0";"0";;
+"134";"2";"0";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">ADMINISTRACIÓN Y SECRETARÍA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"17";"0";"0";;
+"135";"2";"0";"10. La atención del personal de secretaría es buena";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"18";"0";"0";;
+"136";"2";"0";"11. La atención del personal de conserjería es buena";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"19";"0";"0";;
+"137";"2";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">CAFETERÍA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"20";"0";"0";;
+"138";"2";"0";"Indica tu grado de satisfacción con el servicio de cafetería del centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"21";"0";"0";;
+"139";"2";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">INSTALACIONES</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"22";"0";"0";;
+"140";"2";"0";"12. Mi nivel de satisfacción con el equipamiento didáctico de las aulas/talleres (materiales, equipos informáticos, otros equipos)";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"23";"0";"0";;
+"141";"2";"0";"13. Mi valoración del estado general de las instalaciones del centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"24";"0";"0";;
+"142";"2";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">ENSEÑANZA / APRENDIZAJE</font> </strong></p>		<p><font color=""#003366"" size=""2""><em>(Se ha realizado previamente la ""Encuesta por módulos"" cuyos resultados se incluirán en la presente encuesta)</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"25";"0";"0";;
+"143";"2";"0";"14. Mi valoración de las actividades complementarias ofertadas";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"26";"0";"0";;
+"144";"2";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">HORARIOS</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"27";"0";"0";;
+"145";"2";"0";"15. Considero adecuadas las agrupaciones horarias de los módulos de mi ciclo para facilitar mi formación académica";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"28";"0";"0";;
+"146";"2";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">TUTORÍA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"29";"0";"0";;
+"147";"2";"0";"16. La atención personal del tutor a los alumnos";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"30";"0";"0";;
+"148";"2";"0";"17. La información del tutor sobre la organización del centro y del ciclo (evaluaciones, normativa, FCTs, faltas de asistencia )";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"31";"0";"0";;
+"149";"2";"0";"18. La realización de actividades formativas durante la tutoria (debate, temas de actualidad )";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"32";"0";"0";;
+"150";"2";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">DEPARTAMENTO DE ORIENTACIÓN</font> </strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"33";"0";"0";;
+"151";"2";"0";"19. El departamento de orientación está accesible para ayudarnos";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"34";"0";"0";;
+"152";"2";"0";"20. El departamento de orientación me ofrece información académica útil para mi futuro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"35";"0";"0";;
+"153";"2";"0";"21. Valoro positivamente el trabajo del departamento de orientación";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"36";"0";"0";;
+"154";"2";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">CONVIVENCIA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"37";"0";"0";;
+"155";"2";"0";"22. El ambiente en el centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"38";"0";"0";;
+"156";"2";"0";"23. Las soluciones aportadas por el centro ante conflictos de convivencia";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"39";"0";"0";;
+"157";"2";"0";"24. El tratamiento que se hace en el centro a tus quejas y sugerencias";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"40";"0";"0";;
+"158";"2";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">CONTROL</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"41";"0";"0";;
+"159";"2";"0";"25. Tu satisfacción global con el centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"42";"0";"0";;
+"160";"2";"0";"26. Recomendarías a un familiar y/o amigo/a que se matriculará en el centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"43";"0";"0";;
+"161";"2";"0";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p><strong><font color=""#003366"">OTRA INFORMACIÓN</font></strong></p>         <p><font color=""#003366"" size=""2""><em>En las siguientes cuestiones marca todas las respuestas que creas convenientes. Puedes marcar más de una.</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"44";"0";"0";;
+"162";"2";"0";"27. ¿Quién o quienes han decidido que estudies este ciclo?";;"c>>>>>Yo|Mi familia|Mis amigos|Mis profesores|Otros";"multichoice";"1";"45";"0";"0";;
+"163";"2";"0";"28. ¿Cómo has conocido este ciclo formativo?";;"c>>>>>A través de orientadores/profesores del instituto|A través de amigos/as de la familia|A través de la publicidad del instituto|A través de la web de la Consellería|Otros";"multichoice";"1";"46";"0";"0";;
+"164";"2";"0";"29. ¿Por qué has elegido este centro para estudiar este ciclo formativo?";;"c>>>>>Porque está cerca de mi casa|Porque ya había estudiado en este centro|Porque este ciclo sólo está en este centro|Porque me lo han recomendado|Otros";"multichoice";"1";"47";"0";"0";;
+"165";"2";"0";"30. ¿Por qué has decidido estudiar este ciclo formativo?";;"c>>>>>Me gustan los contenidos|Tiene salida profesional|Algunos de mis amigos/as estudian este ciclo|El centro donde se imparte está cerca de mi casa|Otros";"multichoice";"1";"48";"0";"0";;
+"166";"2";"0";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%""><strong><font color=""#003366"">COMENTARIOS / SUGERENCIAS</font></strong> </font><//font>       </td>     </tr></tbody>   </table></p>";"label";"0";"49";"0";"0";;
+"167";"2";"0";"31. Escribe libremente cualquier comentario o sugerencia que desees hacer al respecto de las cuestiones tratadas en la encuesta";;"75|8";"textarea";"1";"50";"0";"0";;
+"168";"2";"0";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%""><strong><font color=""#003366"">BIBLIOTECA</font></strong> </font><//font>       </td>     </tr></tbody>   </table></p>";"label";"0";"51";"0";"0";;
+"169";"2";"0";"32. ¿Cuantas horas dedicas a la lectura cada semana?";;"10|1";"textarea";"1";"52";"0";"0";;
+"170";"2";"0";"33. ¿Cuantas horas son de lectura por medios digitales (ordenador, e-book, etc)?";;"10|1";"textarea";"1";"53";"0";"0";;
+"171";"2";"0";"34. ¿Cuantos libros lees al mes?";;"10|1";"textarea";"1";"54";"0";"0";;
+"172";"2";"0";"35. ¿Que tipo de lectura te gusta?";;"c>>>>>Narrativa|Prensa|Revistas|Ensayos|Otros";"multichoice";"1";"55";"0";"0";;
+"173";"2";"0";"36. ¿Lees el periódico?";;"r>>>>>Todos los días|Una vez a la semana|De vez en cuando|Nunca<<<<<1";"multichoice";"1";"56";"0";"0";;
+"174";"2";"0";"37. ¿Con qué fecuencia usas la biblioteca del instituto?";;"r>>>>>Diaria|Semanal|Mensual|Nunca<<<<<1";"multichoice";"1";"57";"0";"0";;
+"175";"2";"0";"38. Indica tu grado de satisfacción con los fondos bibliográficos de la biblioteca del instituto";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"58";"0";"0";;
+"176";"2";"0";"39. Escribe libremente cualquier comentario o sugerencia para la mejora de la biblioteca del instituto";;"75|8";"textarea";"1";"59";"0";"0";;
+"177";"3";"0";;;"<p align=""center""><strong>Cuestionario de evaluación para ALUMNOS de FCT</strong></p>
+<p align=""center""><img hspace=""0"" height=""120"" width=""660"" border=""0"" src=""http://www.fpmislata.com/logos/logo_completo_660x120.png"" alt=""CIPFP Mislata"" title=""CIPFP Mislata""></p>
+<p align=""left""> </p><p align=""left"">  </p><table cellspacing=""1"" cellpadding=""1"" width=""900"" border=""1""><tbody><tr><td valign=""top"" width=""50%"" colspan=""2"">         <h6 align=""justify"">Rellena este cuestionario para evaluar el centro de trabajo y la organización de la FCT. Los datos aportados serán estrictamente confidenciales y no tendrán ninguna repercusión en vuestra calificación posterior. Esta información nos será muy útil para programar las prácticas el próximo curso.</h6>         <h6 align=""justify"">Rellena los diferentes apartados según la siguiente escala. Si en algún apartado no tienes información para dar tu criterio, entonces debes dejarlo en blanco.</h6>         <h6 align=""justify"">Gracias por tu colaboración.</h6>       </td>     </tr><tr><td valign=""top"" width=""50%""><address>&nbsp;</address><address>Debes responder con un único valor (de 0 a 10) a cada una de las siguientes cuestiones.</address>       </td>       <td valign=""top"" width=""50%"">         <blockquote dir=""ltr"" style=""margin-right:0px;""><address>&nbsp;</address><address>0 - Totalmente en desacuerdo</address><address>...</address><address>10 - Totalmente de acuerdo</address></blockquote>       </td>     </tr></tbody></table><p align=""left"">&nbsp;</p>";"label";"0";"1";"0";"0";;
+"178";"3";"0";"CICLO FORMATIVO QUE ESTUDIAS (respuesta obligatoria)";;"d>>>>>1####CFGM GA - GESTIÓN ADMINISTRATIVA|2####CFGM AC - ACTIVIDADES COMERCIALES|3####CFGM SMR - SISTEMAS MICROINFORMÁTICOS Y REDES|4####CFGM CAE - CUIDADOS AUXILIARES DE ENFERMERÍA|5####CFGS AF - ADMINISTRACIÓN Y FINANZAS|6####CFGS GVEC - GESTIÓN DE VENTAS Y ESPACIOS COMERCIALES|7####CFGS CI - COMERCIO INTERNACIONAL|8####CFGS ASIR - ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS EN RED|9####CFGS DAW - DESARROLLO DE APLICACIONES WEB|10####CFGS DAM - DESARROLLO DE APLICACIONES MULTIPLATAFORMA|11####CFGS AVGE - AGENCIAS DE VIAJES Y GESTIÓN DE EVENTOS|12####CFGS GIAT - GUÍA, INFORMACIÓN Y ASISTENCIAS TURÍSTICAS|13####CFGS GAT - GESTIÓN DE ALOJAMIENTOS TURÍSTICOS|14####CFGS LCB - LABORATORIO CLÍNICO Y BIOMÉDICO|15####CFGS OPT - ÓPTICA";"multichoicerated";"1";"2";"1";"0";;
+"179";"3";"0";"Horas FCT (respuesta obligatoria)";;"d>>>>>1####140 h.|2####300 h.|3####380 h.|4####400 h.|5####440 h.";"multichoicerated";"1";"3";"1";"0";;
+"180";"3";"0";"TUTOR (respuesta obligatoria)";;"75|1";"textarea";"1";"4";"1";"0";;
+"181";"3";"0";"CENTRO DE TRABAJO (respuesta obligatoria)";;"75|1";"textarea";"1";"5";"1";"0";;
+"182";"3";"0";"INSTRUCTOR (respuesta obligatoria)";;"75|1";"textarea";"1";"6";"1";"0";;
+"183";"3";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">VALORACIÓN GLOBAL</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"7";"0";"0";;
+"184";"3";"0";"1. Grado de satisfacción global de la FCT";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"8";"0";"0";;
+"185";"3";"0";"2. ¿Recomendarías esta empresa para acoger alumnos el próximo curso?";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"9";"0";"0";;
+"186";"3";"0";"3. La gestión de la FCT por parte del centro educativo ha sido satisfactoria";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"10";"0";"0";;
+"187";"3";"0";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">INSTRUCTOR</font></strong> </p>       </td>     </tr></tbody>   </table></p>";"label";"0";"11";"0";"0";;
+"188";"3";"0";"4. Seguimiento realizado por el instructor del centro de trabajo";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"12";"0";"0";;
+"189";"3";"0";"5. Conocimiento del perfil del ciclo formativo";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"13";"0";"0";;
+"190";"3";"0";"6. Tiempo dedicado a enseñaros";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"14";"0";"0";;
+"191";"3";"0";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">TUTOR</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"15";"0";"0";;
+"192";"3";"0";"7. Información recibida sobre la FCT por el tutor";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"16";"0";"0";;
+"193";"3";"0";"8. Seguimiento realizado por el tutor";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"17";"0";"0";;
+"194";"3";"0";"9. Disposición a ayudaros";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"18";"0";"0";;
+"195";"3";"0";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">ORGANIZACIÓN DE LAS PRÁCTICAS</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"19";"0";"0";;
+"196";"3";"0";"10. Información previa sobre las empresas y tipos de tarea a realizar";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"20";"0";"0";;
+"197";"3";"0";"11. Adecuación de la oferta de empresas para vuestra titulación";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"21";"0";"0";;
+"198";"3";"0";"12. Adecuación de la duración de las prácticas";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"22";"0";"0";;
+"199";"3";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">EL PLAN FORMATIVO</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"23";"0";"0";;
+"200";"3";"0";"13. Grado de satisfacción de las tareas realizadas";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"24";"0";"0";;
+"201";"3";"0";"14. Adecuación de las tareas desarrolladas a la formación recibida en los estudios";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"25";"0";"0";;
+"202";"3";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">LA APORTACIÓN DE LA FCT A MI DESARROLLO PROFESIONAL</font> </strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"26";"0";"0";;
+"203";"3";"0";"15. He aprendido a manejarme con desenvoltura en el ambiente laboral";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"27";"0";"0";;
+"204";"3";"0";"16. He conocido la organización y el funcionamiento interno de la entidad";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"28";"0";"0";;
+"205";"3";"0";"17. Las prácticas me han permitido ampliar mis opciones profesionales";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"29";"0";"0";;
+"206";"3";"0";"18. Las prácticas me han aportado experiencia laboral";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"30";"0";"0";;
+"207";"3";"0";"19. Las prácticas me han acercado al mundo profesional de mis estudios";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"31";"0";"0";;
+"208";"3";"0";"20. La experiencia profesional y personal adquirida en la empresa/organismo ha sido satisfactoria";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"32";"0";"0";;
+"209";"3";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">LAS CONDICIONES DE LA EMPRESA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"33";"0";"0";;
+"210";"3";"0";"21. He podido disponer de los materiales necesarios para desarrollar mis tareas";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"34";"0";"0";;
+"211";"3";"0";"22. He tenido tiempo para desarrollar mis tareas";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"35";"0";"0";;
+"212";"3";"0";"23. Las condiciones de las prácticas eran flexibles (horario, permisos, etc.)";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"36";"0";"0";;
+"213";"3";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">LA ACTITUD DE LA ENTIDAD</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"37";"0";"0";;
+"214";"3";"0";"24. El trabajo que he realizado ha sido útil y valorado por la empresa";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"38";"0";"0";;
+"215";"3";"0";"25. El ambiente de trabajo ha sido agradable y motivador";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"39";"0";"0";;
+"216";"3";"0";"26. La empresa era adecuada para mis intereses profesionales";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"40";"0";"0";;
+"217";"3";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">INSERCIÓN LABORAL</font> </strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"41";"0";"0";;
+"218";"3";"0";"27. La empresa donde he realizado la FCT me ha contratado";;"r>>>>>Sí|No<<<<<1";"multichoice";"1";"42";"0";"0";;
+"219";"3";"0";"28. La empresa donde he realizado la FCT no me ha contratado, pero tengo posibilidades de que me contrate en un futuro próximo";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"43";"0";"0";;
+"220";"3";"0";"29. La FCT me ha servido para encontrar trabajo";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"44";"0";"0";;
+"221";"3";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">COMENTARIOS / SUGERENCIAS</font> </strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"45";"0";"0";;
+"222";"3";"0";"30. Comentarios y sugerencias que quieras aportar para mejorar el proceso de la FCT";;"75|8";"textarea";"1";"46";"0";"0";;
+"223";"0";"1";;;"<p align=""center""><strong>Cuestionario de evaluación para ALUMNOS de FCT</strong></p>
+<p align=""center""><img hspace=""0"" height=""120"" width=""660"" border=""0"" src=""http://www.fpmislata.com/logos/logo_completo_660x120.png"" alt=""CIPFP Mislata"" title=""CIPFP Mislata""></p>
+<p align=""left""> </p><p align=""left"">  </p><table cellspacing=""1"" cellpadding=""1"" width=""900"" border=""1""><tbody><tr><td valign=""top"" width=""50%"" colspan=""2"">         <h6 align=""justify"">Rellena este cuestionario para evaluar el centro de trabajo y la organización de la FCT. Los datos aportados serán estrictamente confidenciales y no tendrán ninguna repercusión en vuestra calificación posterior. Esta información nos será muy útil para programar las prácticas el próximo curso.</h6>         <h6 align=""justify"">Rellena los diferentes apartados según la siguiente escala. Si en algún apartado no tienes información para dar tu criterio, entonces debes dejarlo en blanco.</h6>         <h6 align=""justify"">Gracias por tu colaboración.</h6>       </td>     </tr><tr><td valign=""top"" width=""50%""><address>&nbsp;</address><address>Debes responder con un único valor (de 0 a 10) a cada una de las siguientes cuestiones.</address>       </td>       <td valign=""top"" width=""50%"">         <blockquote dir=""ltr"" style=""margin-right:0px;""><address>&nbsp;</address><address>0 - Totalmente en desacuerdo</address><address>...</address><address>10 - Totalmente de acuerdo</address></blockquote>       </td>     </tr></tbody></table><p align=""left"">&nbsp;</p>";"label";"0";"1";"0";"0";;
+"224";"0";"1";"CICLO FORMATIVO QUE ESTUDIAS (respuesta obligatoria)";;"d>>>>>1####CFGM GA - GESTIÓN ADMINISTRATIVA|2####CFGM AC - ACTIVIDADES COMERCIALES|3####CFGM SMR - SISTEMAS MICROINFORMÁTICOS Y REDES|4####CFGM CAE - CUIDADOS AUXILIARES DE ENFERMERÍA|5####CFGS AF - ADMINISTRACIÓN Y FINANZAS|6####CFGS GVEC - GESTIÓN DE VENTAS Y ESPACIOS COMERCIALES|7####CFGS CI - COMERCIO INTERNACIONAL|8####CFGS ASIR - ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS EN RED|9####CFGS DAW - DESARROLLO DE APLICACIONES WEB|10####CFGS DAM - DESARROLLO DE APLICACIONES MULTIPLATAFORMA|11####CFGS AVGE - AGENCIAS DE VIAJES Y GESTIÓN DE EVENTOS|12####CFGS GIAT - GUÍA, INFORMACIÓN Y ASISTENCIAS TURÍSTICAS|13####CFGS GAT - GESTIÓN DE ALOJAMIENTOS TURÍSTICOS|14####CFGS LCB - LABORATORIO CLÍNICO Y BIOMÉDICO|15####CFGS OPT - ÓPTICA";"multichoicerated";"1";"2";"1";"0";;
+"225";"0";"1";"Horas FCT (respuesta obligatoria)";;"d>>>>>1####140 h.|2####300 h.|3####380 h.|4####400 h.|5####440 h.";"multichoicerated";"1";"3";"1";"0";;
+"226";"0";"1";"TUTOR (respuesta obligatoria)";;"75|1";"textarea";"1";"4";"1";"0";;
+"227";"0";"1";"CENTRO DE TRABAJO (respuesta obligatoria)";;"75|1";"textarea";"1";"5";"1";"0";;
+"228";"0";"1";"INSTRUCTOR (respuesta obligatoria)";;"75|1";"textarea";"1";"6";"1";"0";;
+"229";"0";"1";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">VALORACIÓN GLOBAL</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"7";"0";"0";;
+"230";"0";"1";"1. Grado de satisfacción global de la FCT";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"8";"0";"0";;
+"231";"0";"1";"2. ¿Recomendarías esta empresa para acoger alumnos el próximo curso?";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"9";"0";"0";;
+"232";"0";"1";"3. La gestión de la FCT por parte del centro educativo ha sido satisfactoria";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"10";"0";"0";;
+"233";"0";"1";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">INSTRUCTOR</font></strong> </p>       </td>     </tr></tbody>   </table></p>";"label";"0";"11";"0";"0";;
+"234";"0";"1";"4. Seguimiento realizado por el instructor del centro de trabajo";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"12";"0";"0";;
+"235";"0";"1";"5. Conocimiento del perfil del ciclo formativo";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"13";"0";"0";;
+"236";"0";"1";"6. Tiempo dedicado a enseñaros";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"14";"0";"0";;
+"237";"0";"1";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">TUTOR</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"15";"0";"0";;
+"238";"0";"1";"7. Información recibida sobre la FCT por el tutor";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"16";"0";"0";;
+"239";"0";"1";"8. Seguimiento realizado por el tutor";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"17";"0";"0";;
+"240";"0";"1";"9. Disposición a ayudaros";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"18";"0";"0";;
+"241";"0";"1";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">ORGANIZACIÓN DE LAS PRÁCTICAS</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"19";"0";"0";;
+"242";"0";"1";"10. Información previa sobre las empresas y tipos de tarea a realizar";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"20";"0";"0";;
+"243";"0";"1";"11. Adecuación de la oferta de empresas para vuestra titulación";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"21";"0";"0";;
+"244";"0";"1";"12. Adecuación de la duración de las prácticas";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"22";"0";"0";;
+"245";"0";"1";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">EL PLAN FORMATIVO</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"23";"0";"0";;
+"246";"0";"1";"13. Grado de satisfacción de las tareas realizadas";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"24";"0";"0";;
+"247";"0";"1";"14. Adecuación de las tareas desarrolladas a la formación recibida en los estudios";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"25";"0";"0";;
+"248";"0";"1";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">LA APORTACIÓN DE LA FCT A MI DESARROLLO PROFESIONAL</font> </strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"26";"0";"0";;
+"249";"0";"1";"15. He aprendido a manejarme con desenvoltura en el ambiente laboral";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"27";"0";"0";;
+"250";"0";"1";"16. He conocido la organización y el funcionamiento interno de la entidad";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"28";"0";"0";;
+"251";"0";"1";"17. Las prácticas me han permitido ampliar mis opciones profesionales";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"29";"0";"0";;
+"252";"0";"1";"18. Las prácticas me han aportado experiencia laboral";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"30";"0";"0";;
+"253";"0";"1";"19. Las prácticas me han acercado al mundo profesional de mis estudios";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"31";"0";"0";;
+"254";"0";"1";"20. La experiencia profesional y personal adquirida en la empresa/organismo ha sido satisfactoria";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"32";"0";"0";;
+"255";"0";"1";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">LAS CONDICIONES DE LA EMPRESA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"33";"0";"0";;
+"256";"0";"1";"21. He podido disponer de los materiales necesarios para desarrollar mis tareas";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"34";"0";"0";;
+"257";"0";"1";"22. He tenido tiempo para desarrollar mis tareas";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"35";"0";"0";;
+"258";"0";"1";"23. Las condiciones de las prácticas eran flexibles (horario, permisos, etc.)";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"36";"0";"0";;
+"259";"0";"1";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">LA ACTITUD DE LA ENTIDAD</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"37";"0";"0";;
+"260";"0";"1";"24. El trabajo que he realizado ha sido útil y valorado por la empresa";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"38";"0";"0";;
+"261";"0";"1";"25. El ambiente de trabajo ha sido agradable y motivador";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"39";"0";"0";;
+"262";"0";"1";"26. La empresa era adecuada para mis intereses profesionales";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"40";"0";"0";;
+"263";"0";"1";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">INSERCIÓN LABORAL</font> </strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"41";"0";"0";;
+"264";"0";"1";"27. La empresa donde he realizado la FCT me ha contratado";;"r>>>>>Sí|No<<<<<1";"multichoice";"1";"42";"0";"0";;
+"265";"0";"1";"28. La empresa donde he realizado la FCT no me ha contratado, pero tengo posibilidades de que me contrate en un futuro próximo";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"43";"0";"0";;
+"266";"0";"1";"29. La FCT me ha servido para encontrar trabajo";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"44";"0";"0";;
+"267";"0";"1";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">COMENTARIOS / SUGERENCIAS</font> </strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"45";"0";"0";;
+"268";"0";"1";"30. Comentarios y sugerencias que quieras aportar para mejorar el proceso de la FCT";;"75|8";"textarea";"1";"46";"0";"0";;
+"317";"0";"2";;;"<p align=""center""><strong>Cuestionario de evaluación para ALUMNOS de FCT</strong></p>
+<p align=""center""><img hspace=""0"" height=""120"" width=""660"" border=""0"" src=""http://www.fpmislata.com/logos/logo_completo_660x120.png"" alt=""CIPFP Mislata"" title=""CIPFP Mislata""></p>
+<p align=""left""> </p><p align=""left"">  </p><table cellspacing=""1"" cellpadding=""1"" width=""900"" border=""1""><tbody><tr><td valign=""top"" width=""50%"" colspan=""2"">         <h6 align=""justify"">Rellena este cuestionario para evaluar el centro de trabajo y la organización de la FCT. Los datos aportados serán estrictamente confidenciales y no tendrán ninguna repercusión en vuestra calificación posterior. Esta información nos será muy útil para programar las prácticas el próximo curso.</h6><h6 align=""justify""><br></h6>         <h6 align=""justify""><span style=""color:inherit;font-family:inherit;text-align:left;"">Gracias por tu colaboración.</span><br></h6>       </td>     </tr></tbody></table><p align=""left"">&nbsp;</p>";"label";"0";"1";"0";"0";;
+"318";"0";"2";"CICLO FORMATIVO QUE ESTUDIAS (respuesta obligatoria)";;"d>>>>>1####CFGM GA - GESTIÓN ADMINISTRATIVA|2####CFGM AC - ACTIVIDADES COMERCIALES|3####CFGM SMR - SISTEMAS MICROINFORMÁTICOS Y REDES|4####CFGM CAE - CUIDADOS AUXILIARES DE ENFERMERÍA|5####CFGS AF - ADMINISTRACIÓN Y FINANZAS|6####CFGS GVEC - GESTIÓN DE VENTAS Y ESPACIOS COMERCIALES|7####CFGS CI - COMERCIO INTERNACIONAL|8####CFGS ASIR - ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS EN RED|9####CFGS DAW - DESARROLLO DE APLICACIONES WEB|10####CFGS DAM - DESARROLLO DE APLICACIONES MULTIPLATAFORMA|11####CFGS AVGE - AGENCIAS DE VIAJES Y GESTIÓN DE EVENTOS|12####CFGS GIAT - GUÍA, INFORMACIÓN Y ASISTENCIAS TURÍSTICAS|13####CFGS GAT - GESTIÓN DE ALOJAMIENTOS TURÍSTICOS|14####CFGS LCB - LABORATORIO CLÍNICO Y BIOMÉDICO|15####CFGS OPT - ÓPTICA";"multichoicerated";"1";"2";"1";"0";;
+"319";"0";"2";"Horas FCT (respuesta obligatoria)";;"d>>>>>1####140 h.|2####300 h.|3####380 h.|4####400 h.|5####440 h.";"multichoicerated";"1";"3";"1";"0";;
+"320";"0";"2";"TUTOR (respuesta obligatoria)";;"75|1";"textarea";"1";"4";"1";"0";;
+"321";"0";"2";"CENTRO DE TRABAJO (respuesta obligatoria)";;"75|1";"textarea";"1";"5";"1";"0";;
+"322";"0";"2";"INSTRUCTOR (respuesta obligatoria)";;"75|1";"textarea";"1";"6";"1";"0";;
+"323";"0";"2";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">VALORACIÓN GLOBAL</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"9";"0";"0";;
+"324";"0";"2";"1. Grado de satisfacción global de las prácticas";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"10";"0";"0";;
+"325";"0";"2";;;"<p align=""left"">   </p><table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody><tr><td valign=""top"" width=""100%"">         <p align=""left""><strong>INSTRUCTOR/A</strong></p>       </td>     </tr></tbody></table>";"label";"0";"11";"0";"0";;
+"326";"0";"2";"2. Grado de satisfacción global del instructor/a";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"12";"0";"0";;
+"327";"0";"2";;;"<p align=""left"">   </p><table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody><tr><td valign=""top"" width=""100%"">         <p align=""left""><strong>TUTOR/A</strong></p>       </td>     </tr></tbody></table>";"label";"0";"13";"0";"0";;
+"328";"0";"2";"3. Información recibida sobre la prácticas por el tutor/a";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"14";"0";"0";;
+"329";"0";"2";"4. Seguimiento y ayuda realizado por el tutor/a";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"15";"0";"0";;
+"330";"0";"2";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">ORGANIZACIÓN DE LAS PRÁCTICAS</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"16";"0";"0";;
+"331";"0";"2";"6. Adecuación de las tareas desarrolladas a la formación recibida en los estudios";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"18";"0";"0";;
+"332";"0";"2";"7. En caso de haber realizado FCT+Dual: Adecuación de la duración de las prácticas";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"19";"0";"0";;
+"333";"0";"2";"5. Grado de satisfacción de las tareas realizadas";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"17";"0";"0";;
+"334";"0";"2";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">LA APORTACIÓN DE LA FCT A MI DESARROLLO PROFESIONAL</font> </strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"20";"0";"0";;
+"335";"0";"2";"8. He conocido la organización y he aprendido a manejarme con desenvoltura en el ambiente laboral";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"21";"0";"0";;
+"336";"0";"2";"9. Las prácticas me han permitido ampliar mis opciones profesionales";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"22";"0";"0";;
+"337";"0";"2";;;"<p>   </p><table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody><tr><td valign=""top"" width=""100%"">         <p align=""left""><strong>LAS CONDICIONES Y ACTITUD DE LA EMPRESA</strong></p>       </td>     </tr></tbody></table>";"label";"0";"23";"0";"0";;
+"338";"0";"2";"10. Las condiciones (horario, recursos, ambiente,  etc.) de las prácticas han sido satisfactorias";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"24";"0";"0";;
+"339";"0";"2";"11. El trabajo que he realizado ha sido útil y valorado por la empresa";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"25";"0";"0";;
+"340";"0";"2";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">INSERCIÓN LABORAL</font> </strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"26";"0";"0";;
+"341";"0";"2";"12. La empresa donde he realizado la prácticas me ha contratado (Sí/ No)";;"r>>>>>Sí
+|No<<<<<1";"multichoice";"1";"27";"0";"0";;
+"342";"0";"2";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">COMENTARIOS / SUGERENCIAS</font> </strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"28";"0";"0";;
+"343";"0";"2";"13. Comentarios y sugerencias que quieras aportar para mejorar el proceso de las prácticas";;"75|8";"textarea";"1";"29";"0";"0";;
+"344";"0";"2";;;"<table cellspacing=""1"" cellpadding=""1"" width=""900"" border=""1""><tbody><tr><td valign=""top"" width=""50%"" colspan=""3"">         <h6 align=""justify""><span style=""color:inherit;font-family:inherit;text-align:left;"">Rellena los diferentes apartados según la siguiente escala. Si en algún apartado no tienes información para dar tu criterio, entonces debes dejarlo en blanco.</span></h6><h6 align=""justify""><span style=""color:inherit;font-family:inherit;text-align:left;""><br></span></h6>       </td>     </tr><tr><td align=""center"" width=""33%"">0</td>
+<td align=""center"" width=""33%"">1 2 3 4 5 6 7 8 9</td>
+<td align=""center"" width=""33%"">10</td>
+</tr><tr><td align=""center"" width=""33%"">Totalmente en desacuerdo</td>
+<td align=""center"" width=""33%"">. . . . . . . . .</td>
+<td align=""center"" width=""33%"">Totalmente de acuerdo</td>
+</tr></tbody></table><p align=""left"">&nbsp;</p>";"label";"0";"8";"0";"0";;
+"345";"0";"2";"MODALIDAD DE PRÁCTICAS REALIZADAS (respuesta obligatoria)";;"d>>>>>1####Prácticas|2####Prácticas + Dual";"multichoicerated";"1";"7";"1";"0";;"h"
+"346";"5";"0";;;"<p align=""center""><strong>Cuestionario para el ALUMNADO de evaluación de las PRÁCTICAS</strong></p>
+<p align=""center""><img hspace=""0"" height=""120"" width=""660"" border=""0"" src=""http://www.fpmislata.com/logos/logo_completo_660x120.png"" alt=""CIPFP Mislata"" title=""CIPFP Mislata""></p>
+<p align=""left""> </p><p align=""left"">  </p><table cellspacing=""1"" cellpadding=""1"" width=""900"" border=""1""><tbody><tr><td valign=""top"" width=""50%"" colspan=""2"">         <h6 align=""justify"">Rellena este cuestionario para evaluar el centro de trabajo y la organización de las prácticas. Los datos aportados serán estrictamente confidenciales y no tendrán ninguna repercusión en vuestra calificación posterior. Esta información nos será muy útil para programar las prácticas el próximo curso.</h6><h6 align=""justify""><br></h6>         <h6 align=""justify""><span style=""color:inherit;font-family:inherit;text-align:left;"">Gracias por tu colaboración.</span><br></h6>       </td>     </tr></tbody></table><p align=""left"">&nbsp;</p>";"label";"0";"1";"0";"0";;
+"347";"5";"0";"CICLO FORMATIVO QUE ESTUDIAS (respuesta obligatoria)";;"d>>>>>1####CFGM AC - ACTIVIDADES COMERCIALES|2####CFGM CAE - CUIDADOS AUXILIARES DE ENFERMERÍA|3####CFGM GA - GESTIÓN ADMINISTRATIVA|4####CFGM SMR - SISTEMAS MICROINFORMÁTICOS Y REDES|5####CFGS AF - ADMINISTRACIÓN Y FINANZAS|6####CFGS ASIR - ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS EN RED|7####CFGS AVGE - AGENCIAS DE VIAJES Y GESTIÓN DE EVENTOS|8####CFGS CI - COMERCIO INTERNACIONAL|9####CFGS DAM - DESARROLLO DE APLICACIONES MULTIPLATAFORMA|10####CFGS DAW - DESARROLLO DE APLICACIONES WEB|11####CFGS GAT - GESTIÓN DE ALOJAMIENTOS TURÍSTICOS|12####CFGS GIAT - GUÍA, INFORMACIÓN Y ASISTENCIAS TURÍSTICAS|13####CFGS LCB - LABORATORIO CLÍNICO Y BIOMÉDICO|14####CFGS MP - MARKETING Y PUBLICIDAD|15####CFGS OPT - ÓPTICA";"multichoicerated";"1";"2";"1";"0";;"h"
+"348";"5";"0";"Horas de prácticas (respuesta obligatoria)";;"d>>>>>1####380 h.|2####400 h.|3####440 h.|4####Otras";"multichoicerated";"1";"3";"1";"0";;"h"
+"349";"5";"0";"TUTOR (respuesta obligatoria)";;"75|1";"textarea";"1";"4";"1";"0";;
+"350";"5";"0";"CENTRO DE TRABAJO (respuesta obligatoria)";;"75|1";"textarea";"1";"5";"1";"0";;
+"351";"5";"0";"INSTRUCTOR (respuesta obligatoria)";;"75|1";"textarea";"1";"6";"1";"0";;
+"352";"5";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">VALORACIÓN GLOBAL</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"9";"0";"0";;
+"353";"5";"0";"1. Grado de satisfacción global de las prácticas";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"10";"0";"0";;
+"354";"5";"0";;;"<p align=""left"">   </p><table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody><tr><td valign=""top"" width=""100%"">         <p align=""left""><strong>INSTRUCTOR/A</strong></p>       </td>     </tr></tbody></table>";"label";"0";"11";"0";"0";;
+"355";"5";"0";"2. Grado de satisfacción global del instructor/a";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"12";"0";"0";;
+"356";"5";"0";;;"<p align=""left"">   </p><table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody><tr><td valign=""top"" width=""100%"">         <p align=""left""><strong>TUTOR/A</strong></p>       </td>     </tr></tbody></table>";"label";"0";"13";"0";"0";;
+"357";"5";"0";"3. Información recibida sobre la prácticas por el tutor/a";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"14";"0";"0";;
+"358";"5";"0";"4. Seguimiento y ayuda realizado por el tutor/a";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"15";"0";"0";;
+"359";"5";"0";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">ORGANIZACIÓN DE LAS PRÁCTICAS</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"16";"0";"0";;
+"360";"5";"0";"6. Adecuación de las tareas desarrolladas a la formación recibida en los estudios";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"18";"0";"0";;
+"361";"5";"0";"7. En caso de haber realizado FCT+Dual: Adecuación de la duración de las prácticas";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"19";"0";"0";;
+"362";"5";"0";"5. Grado de satisfacción de las tareas realizadas";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"17";"0";"0";;
+"363";"5";"0";;;"<p>   </p><table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody><tr><td valign=""top"" width=""100%"">         <p align=""left""><strong>LA APORTACIÓN DE LAS PRÁCTICAS A MI DESARROLLO PROFESIONAL </strong></p>       </td>     </tr></tbody></table>";"label";"0";"20";"0";"0";;
+"364";"5";"0";"8. He conocido la organización y he aprendido a manejarme con desenvoltura en el ambiente laboral";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"21";"0";"0";;
+"365";"5";"0";"9. Las prácticas me han permitido ampliar mis opciones profesionales";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"22";"0";"0";;
+"366";"5";"0";;;"<p>   </p><table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody><tr><td valign=""top"" width=""100%"">         <p align=""left""><strong>LAS CONDICIONES Y ACTITUD DE LA EMPRESA</strong></p>       </td>     </tr></tbody></table>";"label";"0";"23";"0";"0";;
+"367";"5";"0";"10. Las condiciones (horario, recursos, ambiente,  etc.) de las prácticas han sido satisfactorias";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"24";"0";"0";;
+"368";"5";"0";"11. El trabajo que he realizado ha sido útil y valorado por la empresa";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"25";"0";"0";;
+"369";"5";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">INSERCIÓN LABORAL</font> </strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"26";"0";"0";;
+"370";"5";"0";"12. La empresa donde he realizado la prácticas me ha contratado (Sí/ No)";;"r>>>>>Sí
+|No<<<<<1";"multichoice";"1";"27";"0";"0";;
+"371";"5";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">COMENTARIOS / SUGERENCIAS</font> </strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"28";"0";"0";;
+"372";"5";"0";"13. Comentarios y sugerencias que quieras aportar para mejorar el proceso de las prácticas";;"75|8";"textarea";"1";"29";"0";"0";;
+"373";"5";"0";;;"<table cellspacing=""1"" cellpadding=""1"" width=""900"" border=""1""><tbody><tr><td valign=""top"" width=""50%"" colspan=""3"">         <h6 align=""justify""><span style=""color:inherit;font-family:inherit;text-align:left;"">Rellena los diferentes apartados según la siguiente escala. Si en algún apartado no tienes información para dar tu criterio, entonces debes dejarlo en blanco.</span></h6><h6 align=""justify""><span style=""color:inherit;font-family:inherit;text-align:left;""><br></span></h6>       </td>     </tr><tr><td align=""center"" width=""33%"">0</td>
+<td align=""center"" width=""33%"">1 2 3 4 5 6 7 8 9</td>
+<td align=""center"" width=""33%"">10</td>
+</tr><tr><td align=""center"" width=""33%"">Totalmente en desacuerdo</td>
+<td align=""center"" width=""33%"">. . . . . . . . .</td>
+<td align=""center"" width=""33%"">Totalmente de acuerdo</td>
+</tr></tbody></table><p align=""left"">&nbsp;</p>";"label";"0";"8";"0";"0";;
+"374";"5";"0";"MODALIDAD DE PRÁCTICAS REALIZADAS (respuesta obligatoria)";;"d>>>>>1####Prácticas|2####Prácticas + Dual|3####PNL";"multichoicerated";"1";"7";"1";"0";;"h"
+"375";"0";"3";;;"<p align=""center""><strong>SISTEMA DE GESTIÓN DE CALIDAD - ENCUESTA DE SATISFACCIÓN DEL ALUMNADO</strong></p>
+<p align=""center""><img hspace=""0"" height=""120"" width=""660"" border=""0"" src=""http://www.fpmislata.com/logos/logo_completo_660x120.png"" alt=""CIPFP Mislata"" title=""CIPFP Mislata""></p>
+<p align=""left""> </p><p align=""left"">  </p><table cellspacing=""1"" cellpadding=""1"" width=""900"" border=""1""><tbody><tr><td valign=""top"" width=""50%"" colspan=""2"">         <h6 align=""left"">La encuesta es totalmente anónima y sus resultados se utilizarán únicamente con la intención de mejorar el centro.</h6>         <h6 align=""left"">Si lo deseas puedes dejar cualquiera de las cuestiones sin contestar.</h6>         <h6 align=""left"">Gracias por tu colaboración.</h6>       </td>     </tr><tr><td valign=""top"" width=""50%""><address>&nbsp;</address><address>Debes responder con un único valor (de 0 a 10) a cada una de las siguientes cuestiones.</address>       </td>       <td valign=""top"" width=""50%"">         <blockquote dir=""ltr"" style=""margin-right:0px;""><address>&nbsp;</address><address>0 - Totalmente en desacuerdo</address><address>...</address><address>10 - Totalmente de acuerdo</address></blockquote>       </td>     </tr></tbody></table><p align=""left"">&nbsp;</p>";"label";"0";"1";"0";"0";;
+"376";"0";"3";"FAMILIA PROFESIONAL EN LA QUE ESTUDIAS (respuesta obligatoria)";;"d>>>>>1####ADMINISTRACIÓN DE EMPRESAS|2####COMERCIO Y MARKETING|3####INFORMÁTICA|4####TURISMO|5####SANIDAD|6####ÓPTICA";"multichoicerated";"1";"2";"1";"0";;
+"377";"0";"3";"¿Estudias Grado MEDIO o Grado SUPERIOR? (respuesta obligatoria)";;"d>>>>>1####Grado MEDIO|2####Grado SUPERIOR";"multichoicerated";"1";"3";"1";"0";;
+"378";"0";"3";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">ACOGIDA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"4";"0";"0";;
+"379";"0";"3";"1. El centro pone todos los medios a su alcance para facilitar la incorporación de los alumnos al principio de curso";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"5";"0";"0";;
+"380";"0";"3";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">GESTIÓN DEL CENTRO</font></strong> </p>       </td>     </tr></tbody>   </table></p>";"label";"0";"6";"0";"0";;
+"381";"0";"3";"2. El equipo directivo actual trabaja para mejorar el centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"7";"0";"0";;
+"382";"0";"3";"3. Considero que el equipo directivo es accesible";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"8";"0";"0";;
+"383";"0";"3";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">COMUNICACIÓN</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"9";"0";"0";;
+"384";"0";"3";"4. El centro se preocupa por facilitarnos la información necesaria";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"10";"0";"0";;
+"385";"0";"3";"5. Existen en el centro suficientes medios para informar al alumnado";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"11";"0";"0";;
+"386";"0";"3";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">INNOVACIÓN Y TECNOLOGÍA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"12";"0";"0";;
+"387";"0";"3";"6. La plataforma moodle es útil";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"13";"0";"0";;
+"388";"0";"3";"7. La página web es de fácil uso";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"14";"0";"0";;
+"389";"0";"3";"8. La página web contiene información interesante";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"15";"0";"0";;
+"390";"0";"3";"9. En el centro se fomenta la innovación tecnológica";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"16";"0";"0";;
+"391";"0";"3";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">ADMINISTRACIÓN Y SECRETARÍA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"17";"0";"0";;
+"392";"0";"3";"10. La atención del personal de secretaría es buena";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"18";"0";"0";;
+"393";"0";"3";"11. La atención del personal de conserjería es buena";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"19";"0";"0";;
+"394";"0";"3";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">CAFETERÍA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"20";"0";"0";;
+"395";"0";"3";"Indica tu grado de satisfacción con el servicio de cafetería del centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"21";"0";"0";;
+"396";"0";"3";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">INSTALACIONES</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"22";"0";"0";;
+"397";"0";"3";"12. Mi nivel de satisfacción con el equipamiento didáctico de las aulas/talleres (materiales, equipos informáticos, otros equipos)";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"23";"0";"0";;
+"398";"0";"3";"13. Mi valoración del estado general de las instalaciones del centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"24";"0";"0";;
+"399";"0";"3";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">ENSEÑANZA / APRENDIZAJE</font> </strong></p>		<p><font color=""#003366"" size=""2""><em>(Se ha realizado previamente la ""Encuesta por módulos"" cuyos resultados se incluirán en la presente encuesta)</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"25";"0";"0";;
+"400";"0";"3";"14. Mi valoración de las actividades complementarias ofertadas";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"26";"0";"0";;
+"401";"0";"3";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">HORARIOS</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"27";"0";"0";;
+"402";"0";"3";"15. Considero adecuadas las agrupaciones horarias de los módulos de mi ciclo para facilitar mi formación académica";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"28";"0";"0";;
+"403";"0";"3";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">TUTORÍA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"29";"0";"0";;
+"404";"0";"3";"16. La atención personal del tutor a los alumnos";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"30";"0";"0";;
+"405";"0";"3";"17. La información del tutor sobre la organización del centro y del ciclo (evaluaciones, normativa, FCTs, faltas de asistencia )";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"31";"0";"0";;
+"406";"0";"3";"18. La realización de actividades formativas durante la tutoria (debate, temas de actualidad )";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"32";"0";"0";;
+"407";"0";"3";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">DEPARTAMENTO DE ORIENTACIÓN</font> </strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"33";"0";"0";;
+"408";"0";"3";"19. El departamento de orientación está accesible para ayudarnos";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"34";"0";"0";;
+"409";"0";"3";"20. El departamento de orientación me ofrece información académica útil para mi futuro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"35";"0";"0";;
+"410";"0";"3";"21. Valoro positivamente el trabajo del departamento de orientación";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"36";"0";"0";;
+"411";"0";"3";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">CONVIVENCIA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"37";"0";"0";;
+"412";"0";"3";"22. El ambiente en el centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"38";"0";"0";;
+"413";"0";"3";"23. Las soluciones aportadas por el centro ante conflictos de convivencia";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"39";"0";"0";;
+"414";"0";"3";"24. El tratamiento que se hace en el centro a tus quejas y sugerencias";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"40";"0";"0";;
+"415";"0";"3";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">CONTROL</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"41";"0";"0";;
+"416";"0";"3";"25. Tu satisfacción global con el centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"42";"0";"0";;
+"417";"0";"3";"26. Recomendarías a un familiar y/o amigo/a que se matriculará en el centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"43";"0";"0";;
+"418";"0";"3";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p><strong><font color=""#003366"">OTRA INFORMACIÓN</font></strong></p>         <p><font color=""#003366"" size=""2""><em>En las siguientes cuestiones marca todas las respuestas que creas convenientes. Puedes marcar más de una.</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"44";"0";"0";;
+"419";"0";"3";"27. ¿Quién o quienes han decidido que estudies este ciclo?";;"c>>>>>Yo|Mi familia|Mis amigos|Mis profesores|Otros";"multichoice";"1";"45";"0";"0";;
+"420";"0";"3";"28. ¿Cómo has conocido este ciclo formativo?";;"c>>>>>A través de orientadores/profesores del instituto|A través de amigos/as de la familia|A través de la publicidad del instituto|A través de la web de la Consellería|Otros";"multichoice";"1";"46";"0";"0";;
+"421";"0";"3";"29. ¿Por qué has elegido este centro para estudiar este ciclo formativo?";;"c>>>>>Porque está cerca de mi casa|Porque ya había estudiado en este centro|Porque este ciclo sólo está en este centro|Porque me lo han recomendado|Otros";"multichoice";"1";"47";"0";"0";;
+"422";"0";"3";"30. ¿Por qué has decidido estudiar este ciclo formativo?";;"c>>>>>Me gustan los contenidos|Tiene salida profesional|Algunos de mis amigos/as estudian este ciclo|El centro donde se imparte está cerca de mi casa|Otros";"multichoice";"1";"48";"0";"0";;
+"423";"0";"3";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%""><strong><font color=""#003366"">COMENTARIOS / SUGERENCIAS</font></strong> </font><//font>       </td>     </tr></tbody>   </table></p>";"label";"0";"49";"0";"0";;
+"424";"0";"3";"31. Escribe libremente cualquier comentario o sugerencia que desees hacer al respecto de las cuestiones tratadas en la encuesta";;"75|8";"textarea";"1";"50";"0";"0";;
+"425";"0";"3";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%""><strong><font color=""#003366"">BIBLIOTECA</font></strong> </font><//font>       </td>     </tr></tbody>   </table></p>";"label";"0";"51";"0";"0";;
+"426";"0";"3";"32. ¿Cuantas horas dedicas a la lectura cada semana?";;"10|1";"textarea";"1";"52";"0";"0";;
+"427";"0";"3";"33. ¿Cuantas horas son de lectura por medios digitales (ordenador, e-book, etc)?";;"10|1";"textarea";"1";"53";"0";"0";;
+"428";"0";"3";"34. ¿Cuantos libros lees al mes?";;"10|1";"textarea";"1";"54";"0";"0";;
+"429";"0";"3";"35. ¿Que tipo de lectura te gusta?";;"c>>>>>Narrativa|Prensa|Revistas|Ensayos|Otros";"multichoice";"1";"55";"0";"0";;
+"430";"0";"3";"36. ¿Lees el periódico?";;"r>>>>>Todos los días|Una vez a la semana|De vez en cuando|Nunca<<<<<1";"multichoice";"1";"56";"0";"0";;
+"431";"0";"3";"37. ¿Con qué fecuencia usas la biblioteca del instituto?";;"r>>>>>Diaria|Semanal|Mensual|Nunca<<<<<1";"multichoice";"1";"57";"0";"0";;
+"432";"0";"3";"38. Indica tu grado de satisfacción con los fondos bibliográficos de la biblioteca del instituto";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"58";"0";"0";;
+"433";"0";"3";"39. Escribe libremente cualquier comentario o sugerencia para la mejora de la biblioteca del instituto";;"75|8";"textarea";"1";"59";"0";"0";;
+"434";"6";"0";;;"<p align=""center""><strong>SISTEMA DE GESTIÓN DE CALIDAD - ENCUESTA DE SATISFACCIÓN DEL ALUMNADO</strong></p>
+<p align=""center""><img hspace=""0"" height=""120"" width=""660"" border=""0"" src=""http://www.fpmislata.com/logos/logo_completo_660x120.png"" alt=""CIPFP Mislata"" title=""CIPFP Mislata""></p>
+<p align=""left""> </p><p align=""left"">  </p><table cellspacing=""1"" cellpadding=""1"" width=""900"" border=""1""><tbody><tr><td valign=""top"" width=""50%"" colspan=""2"">         <h6 align=""left"">La encuesta es totalmente anónima y sus resultados se utilizarán únicamente con la intención de mejorar el centro.</h6>         <h6 align=""left"">Si lo deseas puedes dejar cualquiera de las cuestiones sin contestar.</h6>         <h6 align=""left"">Gracias por tu colaboración.</h6>       </td>     </tr><tr><td valign=""top"" width=""50%""><address>&nbsp;</address><address>Debes responder con un único valor (de 0 a 10) a cada una de las siguientes cuestiones.</address>       </td>       <td valign=""top"" width=""50%"">         <blockquote dir=""ltr"" style=""margin-right:0px;""><address>&nbsp;</address><address>0 - Totalmente en desacuerdo</address><address>...</address><address>10 - Totalmente de acuerdo</address></blockquote>       </td>     </tr></tbody></table><p align=""left"">&nbsp;</p>";"label";"0";"1";"0";"0";;
+"435";"6";"0";"FAMILIA PROFESIONAL EN LA QUE ESTUDIAS (respuesta obligatoria)";;"d>>>>>1####ADMINISTRACIÓN DE EMPRESAS|2####COMERCIO Y MARKETING|3####INFORMÁTICA|4####TURISMO|5####SANIDAD|6####ÓPTICA";"multichoicerated";"1";"2";"1";"0";;
+"436";"6";"0";"¿Estudias Grado MEDIO / Grado SUPERIOR / Curso de ESPECIALIZACIÓN / Curso LABORA? (respuesta obligatoria)";;"d>>>>>1####Grado MEDIO|2####Grado SUPERIOR|3####Curso de ESPECIALIZACIÓN|4####Curso LABORA";"multichoicerated";"1";"3";"1";"0";;"h"
+"437";"6";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">ACOGIDA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"4";"0";"0";;
+"438";"6";"0";"1. El centro pone todos los medios a su alcance para facilitar la incorporación de los alumnos al principio de curso";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"5";"0";"0";;
+"439";"6";"0";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">GESTIÓN DEL CENTRO</font></strong> </p>       </td>     </tr></tbody>   </table></p>";"label";"0";"6";"0";"0";;
+"440";"6";"0";"2. El equipo directivo actual trabaja para mejorar el centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"7";"0";"0";;
+"441";"6";"0";"3. Considero que el equipo directivo es accesible";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"8";"0";"0";;
+"442";"6";"0";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">COMUNICACIÓN</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"9";"0";"0";;
+"443";"6";"0";"4. El centro se preocupa por facilitarnos la información necesaria";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"10";"0";"0";;
+"444";"6";"0";"5. Existen en el centro suficientes medios para informar al alumnado";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"11";"0";"0";;
+"445";"6";"0";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">INNOVACIÓN Y TECNOLOGÍA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"12";"0";"0";;
+"446";"6";"0";"6. La plataforma moodle es útil";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"13";"0";"0";;
+"447";"6";"0";"7. La página web es de fácil uso";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"14";"0";"0";;
+"448";"6";"0";"8. La página web contiene información interesante";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"15";"0";"0";;
+"449";"6";"0";"9. En el centro se fomenta la innovación tecnológica";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"16";"0";"0";;
+"450";"6";"0";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">ADMINISTRACIÓN Y SECRETARÍA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"17";"0";"0";;
+"451";"6";"0";"10. La atención del personal de secretaría es buena";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"18";"0";"0";;
+"452";"6";"0";"11. La atención del personal de conserjería es buena";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"19";"0";"0";;
+"453";"6";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">CAFETERÍA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"20";"0";"0";;
+"454";"6";"0";"Indica tu grado de satisfacción con el servicio de cafetería del centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"21";"0";"0";;
+"455";"6";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">INSTALACIONES</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"22";"0";"0";;
+"456";"6";"0";"12. Mi nivel de satisfacción con el equipamiento didáctico de las aulas/talleres (materiales, equipos informáticos, otros equipos)";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"23";"0";"0";;
+"457";"6";"0";"13. Mi valoración del estado general de las instalaciones del centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"24";"0";"0";;
+"458";"6";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">ENSEÑANZA / APRENDIZAJE</font> </strong></p>		<p><font color=""#003366"" size=""2""><em>(Se ha realizado previamente la ""Encuesta por módulos"" cuyos resultados se incluirán en la presente encuesta)</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"25";"0";"0";;
+"459";"6";"0";"14. Mi valoración de las actividades complementarias ofertadas";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"26";"0";"0";;
+"460";"6";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">HORARIOS</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"27";"0";"0";;
+"461";"6";"0";"15. Considero adecuadas las agrupaciones horarias de los módulos de mi ciclo para facilitar mi formación académica";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"28";"0";"0";;
+"462";"6";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">TUTORÍA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"29";"0";"0";;
+"463";"6";"0";"16. La atención personal del tutor a los alumnos";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"30";"0";"0";;
+"464";"6";"0";"17. La información del tutor sobre la organización del centro y del ciclo (evaluaciones, normativa, FCTs, faltas de asistencia )";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"31";"0";"0";;
+"465";"6";"0";"18. La realización de actividades formativas durante la tutoria (debate, temas de actualidad )";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"32";"0";"0";;
+"466";"6";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">DEPARTAMENTO DE ORIENTACIÓN</font> </strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"33";"0";"0";;
+"467";"6";"0";"19. El departamento de orientación está accesible para ayudarnos";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"34";"0";"0";;
+"468";"6";"0";"20. El departamento de orientación me ofrece información académica útil para mi futuro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"35";"0";"0";;
+"469";"6";"0";"21. Valoro positivamente el trabajo del departamento de orientación";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"36";"0";"0";;
+"470";"6";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">CONVIVENCIA</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"37";"0";"0";;
+"471";"6";"0";"22. El ambiente en el centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"38";"0";"0";;
+"472";"6";"0";"23. Las soluciones aportadas por el centro ante conflictos de convivencia";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"39";"0";"0";;
+"473";"6";"0";"24. El tratamiento que se hace en el centro a tus quejas y sugerencias";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"40";"0";"0";;
+"474";"6";"0";;;"<p>   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p align=""left""><strong><font color=""#003366"">CONTROL</font></strong></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"41";"0";"0";;
+"475";"6";"0";"25. Tu satisfacción global con el centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"42";"0";"0";;
+"476";"6";"0";"26. Recomendarías a un familiar y/o amigo/a que se matriculará en el centro";;"r>>>>>0|1|2|3|4|5|6|7|8|9|10<<<<<1";"multichoice";"1";"43";"0";"0";;
+"477";"6";"0";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%"">         <p><strong><font color=""#003366"">OTRA INFORMACIÓN</font></strong></p>         <p><font color=""#003366"" size=""2""><em>En las siguientes cuestiones marca todas las respuestas que creas convenientes. Puedes marcar más de una.</em></font></p>       </td>     </tr></tbody>   </table></p>";"label";"0";"44";"0";"0";;
+"478";"6";"0";"27. ¿Quién o quienes han decidido que estudies este ciclo?";;"c>>>>>Yo|Mi familia|Mis amigos|Mis profesores|Otros";"multichoice";"1";"45";"0";"0";;
+"479";"6";"0";"28. ¿Cómo has conocido este ciclo formativo?";;"c>>>>>A través de orientadores/profesores del instituto|A través de amigos/as de la familia|A través de la publicidad del instituto|A través de la web de la Consellería|Otros";"multichoice";"1";"46";"0";"0";;
+"480";"6";"0";"29. ¿Por qué has elegido este centro para estudiar este ciclo formativo?";;"c>>>>>Porque está cerca de mi casa|Porque ya había estudiado en este centro|Porque este ciclo sólo está en este centro|Porque me lo han recomendado|Otros";"multichoice";"1";"47";"0";"0";;
+"481";"6";"0";"30. ¿Por qué has decidido estudiar este ciclo formativo?";;"c>>>>>Me gustan los contenidos|Tiene salida profesional|Algunos de mis amigos/as estudian este ciclo|El centro donde se imparte está cerca de mi casa|Otros";"multichoice";"1";"48";"0";"0";;
+"482";"6";"0";;;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%""><strong><font color=""#003366"">COMENTARIOS / SUGERENCIAS</font></strong> </font><//font>       </td>     </tr></tbody>   </table></p>";"label";"0";"49";"0";"0";;
+"483";"6";"0";"31. Escribe libremente cualquier comentario o sugerencia que desees hacer al respecto de las cuestiones tratadas en la encuesta";;"75|8";"textarea";"1";"50";"0";"0";;
+"484";"7";"0";;;"<p align=""center""><strong>SISTEMA DE GESTIÓN DE CALIDAD - ENCUESTA DE SATISFACCIÓN DEL ALUMNADO</strong></p>
+<p align=""center""><img hspace=""0"" height=""120"" width=""660"" border=""0"" src=""http://www.fpmislata.com/logos/logo_completo_660x120.png"" alt=""CIPFP Mislata"" title=""CIPFP Mislata""></p>
+<p align=""left""> </p><p align=""left"">  </p><table cellspacing=""1"" cellpadding=""1"" width=""900"" border=""1""><tbody><tr><td valign=""top"" width=""50%"" colspan=""2"">         <h6 align=""left"">La encuesta es totalmente anónima y sus resultados se utilizarán únicamente con la intención de mejorar el centro.</h6>         <h6 align=""left"">Si lo deseas puedes dejar cualquiera de las cuestiones sin contestar.</h6>         <h6 align=""left"">Gracias por tu colaboración.</h6>       </td>     </tr><tr><td valign=""top"" width=""50%""><address>&nbsp;</address><address>Debes responder con un único valor (de 0 a 10) a cada una de las siguientes cuestiones.</address>       </td>       <td valign=""top"" width=""50%"">         <blockquote dir=""ltr"" style=""margin-right:0px;""><address>&nbsp;</address><address>0 - Totalmente en desacuerdo</address><address>...</address><address>10 - Totalmente de acuerdo</address></blockquote>       </td>     </tr></tbody></table><p align=""left"">&nbsp;</p>";"label";"0";"1";"0";"0";;
+"485";"7";"0";"FAMILIA PROFESIONAL EN LA QUE ESTUDIAS (respuesta obligatoria)";;"d>>>>>1####ADMINISTRACIÓN DE EMPRESAS|2####COMERCIO Y MARKETING|3####INFORMÁTICA|4####TURISMO|5####SANIDAD|6####ÓPTICA";"multichoicerated";"1";"2";"1";"0";;
+"486";"7";"0";"¿Estudias Grado MEDIO / Grado SUPERIOR / Curso de ESPECIALIZACIÓN / Curso LABORA? (respuesta obligatoria)";;"d>>>>>1####Grado MEDIO|2####Grado SUPERIOR|3####Curso de ESPECIALIZACIÓN|4####Curso LABORA";"multichoicerated";"1";"3";"1";"0";;"h"
+"488";"7";"0";"1. La acogida al inicio de curso en el centro ha sido satisfactoria";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"4";"0";"0";;
+"490";"7";"0";"2. Considero que el centro está bien gestionado";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"5";"0";"0";;
+"493";"7";"0";"3. Existen en el centro suficientes medios para informar al alumnado";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"6";"0";"0";;
+"501";"7";"0";"4. La atención de personal de secretaria y administración es buena";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"7";"0";"0";;
+"502";"7";"0";"5. La atención del personal de conserjería es buena";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"8";"0";"0";;
+"504";"7";"0";"6. Indica tu grado de satisfacción con el servicio de cafetería del centro";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"9";"0";"0";;
+"506";"7";"0";"7. Mi valoración del estado general de las instalaciones del centro es:";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"10";"0";"0";;
+"507";"7";"0";"8. La atención personal del tutor/a";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"11";"0";"0";;
+"509";"7";"0";"9. La información del tutor sobre la organización del centro y del ciclo (evaluaciones, normativa, FCTs, faltas de asistencia)";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"12";"0";"0";;
+"511";"7";"0";"10. La realización de actividades formativas durante la tutoría (debate, temas de actualidad)";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"13";"0";"0";;
+"513";"7";"0";"11. El departamento de orientación está accesible para ayudarnos";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"14";"0";"0";;
+"514";"7";"0";"12. El departamento ofrece orientación académica y profesional útil para mi futuro";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"15";"0";"0";;
+"515";"7";"0";"13. El ambiente en el centro";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"16";"0";"0";;
+"517";"7";"0";"14. Las soluciones aportadas por el centro ante problemas de convivencia";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"17";"0";"0";;
+"518";"7";"0";"15. Tu satisfacción global con el centro";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"18";"0";"0";;
+"519";"7";"0";"16. Recomendarías a un familiar y/o amigo/a que se matriculará en el centro";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"19";"0";"0";;
+"528";"7";"0";"17. ¿Quién o quienes han decidido que estudies este ciclo?";;"c>>>>>Yo
+|Mi familia
+|Mis amigos
+|Mis profesores
+|Otros";"multichoice";"1";"20";"0";"0";;"h"
+"529";"7";"0";"18. ¿Cómo has conocido este ciclo formativo?";;"c>>>>>A través de orientadores/profesores del instituto
+|A través de amigos/as de la familia
+|A través de la publicidad del instituto
+|A través de la web de la Consellería
+|Otros";"multichoice";"1";"21";"0";"0";;"h"
+"530";"7";"0";"19. ¿Por qué has elegido este centro para estudiar este ciclo formativo?";;"c>>>>>Porque está cerca de mi casa
+|Porque ya había estudiado en este centro
+|Porque este ciclo sólo está en este centro
+|Porque me lo han recomendado
+|Otros";"multichoice";"1";"22";"0";"0";;"h"
+"531";"7";"0";"20. ¿Por qué has decidido estudiar este ciclo formativo?";;"c>>>>>Me gustan los contenidos
+|Tiene salida profesional
+|Algunos de mis amigos/as estudian este ciclo
+|El centro donde se imparte está cerca de mi casa
+|Otros";"multichoice";"1";"23";"0";"0";;"h"
+"533";"7";"0";"21. Escribe libremente cualquier comentario o sugerencia que desees hacer al respecto de las cuestiones tratadas en la encuesta";;"75|8";"textarea";"1";"24";"0";"0";;
+"592";"9";"0";"label";;"<p align=""center""><strong>SISTEMA DE GESTIÓN DE CALIDAD - ENCUESTA DE SATISFACCIÓN DEL PROFESORADO</strong></p>
+<p align=""center""><img hspace=""0"" height=""120"" width=""660"" border=""0"" src=""http://www.fpmislata.com/logos/logo_completo_660x120.png"" alt=""CIPFP Mislata"" title=""CIPFP Mislata""></p>
+<p align=""left""> </p><p align=""left"">  <table cellspacing=""1"" cellpadding=""1"" border=""1"" width=""900""><tbody>    <tr>      <td width=""50%"" valign=""top"" colspan=""2"">        <h6 align=""left""><font size=""3"" color=""#003366"">La encuesta es totalmente anónima y sus resultados se utilizarán únicamente con la intención de mejorar el centro.</font></h6>        <h6 align=""left""><font size=""3"" color=""#003366"">Si lo deseas puedes dejar cualquiera de las cuestiones sin contestar.</font></h6>        <h6 align=""left""><font size=""3"" color=""#003366"">Gracias por tu colaboración.</font></h6>      </td>    </tr>    <tr>      <td width=""50%"" valign=""top""><address><font size=""2""></font><font color=""#003366""> </font></address><address><font size=""2"" color=""#003366"">Debes responder con un único valor (de 0 a 10) a cada una de las siguientes cuestiones.</font></address>      </td>      <td width=""50%"" valign=""top"">        <blockquote style=""margin-right: 0px;"" dir=""ltr""><address><font size=""2""></font><font color=""#003366""> </font></address><address style=""font-style: italic;""><font size=""2"" color=""#003366"">0 - Nada de acuerdo</font></address><span style=""font-style: italic;"">...<br /></span><font size=""2"" color=""#003366"" style=""font-style: italic;"">10 - Totalmente de acuerdo</font></blockquote>      </td>    </tr></tbody>  </table></p><p align=""left""><font color=""#003366""> </font></p>";"label";"0";"1";"0";"0";;
+"593";"9";"0";"DEPARTAMENT O FAMÍLIA PROFESSIONAL A LA QUE PERTANYS (resposta obligatòria)";;"d>>>>>1####ADMINISTRACIÓN DE EMPRESAS|2####COMERCIO Y MÁRKETING|3####FOL|4####IDIOMAS|5####INFORMÁTICA|6####ÓPTICA|7####ORIENTACIÓN|8####TURISMO|9####SANIDAD";"multichoicerated";"1";"2";"1";"0";;"h"
+"594";"9";"0";"label";;"<p>   </p><table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody><tr><td valign=""top"" width=""100%"">         <p align=""left""><em style=""font-size: 0.9375rem;"">Quin és el teu grau de satisfacció respecte a les següents qüestions?</em><br></p>       </td>     </tr></tbody></table>";"label";"0";"3";"0";"0";;
+"595";"9";"0";"1. La gestió del centre i la implicació de l'equip directiu en la millora del centre";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"4";"0";"0";;
+"596";"9";"0";"2. El teu horari en el centre";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"5";"0";"0";;
+"597";"9";"0";"3. L'atenció del personal de secretaria i administració";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"6";"0";"0";;
+"599";"9";"0";"4. L'atenció del personal de consergeria";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"7";"0";"0";;
+"600";"9";"0";"5. L'estat de les instal·lacions didàctiques, aules, tallers i laboratoris";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"8";"0";"0";;
+"601";"9";"0";"6. Les zones comuns del centre (corredors, jardins, patis, Pecera, ...)";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"9";"0";"0";;
+"602";"9";"0";"7. Indica el teu grau de satisfacció amb el servici de cafeteria del centre";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"10";"0";"0";;
+"603";"9";"0";"8. La satisfacció del teu treball i esforç en el centre";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"11";"0";"0";;
+"605";"9";"0";"9. El treball en equip que es desenvolupa al centre";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"12";"0";"0";;
+"606";"9";"0";"10. El recolzament a les iniciatives del professorat";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"13";"0";"0";;
+"608";"9";"0";"11. La satisfacció amb l'ambient en el centre";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"14";"0";"0";;
+"609";"9";"0";"12. La convivència a l'aula";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"15";"0";"0";;
+"610";"9";"0";"13. Valores positivament la implantació del sistema de gestió de qualitat";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"16";"0";"0";;
+"613";"9";"0";"14. La informació proporcionada al personal docent";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"17";"0";"0";;
+"614";"9";"0";"15. La facilitat per part del centre amb l'ús de les noves tecnologies";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"18";"0";"0";;
+"615";"9";"0";"16. El centre dinamitza la innovació en la tasca docent";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"19";"0";"0";;
+"616";"9";"0";"17. Recomanaries el centre a un altre docent";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"20";"0";"0";;
+"617";"9";"0";"18. Recomanaries el centre a un familiar i/o amic/ga per a que el seu fill/a estudie a este centre";;"r>>>>>0
+|1
+|2
+|3
+|4
+|5
+|6
+|7
+|8
+|9
+|10<<<<<1";"multichoice";"1";"21";"0";"0";;
+"647";"9";"0";"19. Marca únicament dos qüestions que consideres les més importants a la vida del centre";;"c>>>>>Que el centre estiga ben dirigit, organitzat i tinga prestigi
+|Que les instal·lacions del centre siguen bones
+|Que existisca voluntat de treball en equip i compromís amb la millora del centre
+|Que el nivell de la formació que s'imparteix al centre siga alt i competitiu
+|Que no existisquen problemes disciplinaris i oferisca un bon ambient de treball";"multichoice";"1";"22";"0";"0";;"h"
+"648";"9";"0";"label";;"<p align=""left"">   <table cellspacing=""1"" cellpadding=""1"" width=""900"" align=""left"" border=""1""><tbody>     <tr>       <td valign=""top"" width=""100%""><strong><font color=""#003366"">COMENTARIS / SUGGERIMENTS</font></strong> </font></font>       </td>     </tr></tbody>   </table></p>";"label";"0";"23";"0";"0";;
+"649";"9";"0";"20. Escriu lliurement qualsevol comentari o suggeriment que vulgues fer respecte de les qüestions tractades en aquesta enquesta";;"75|8";"textarea";"1";"24";"0";"0";;

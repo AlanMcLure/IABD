@@ -1,0 +1,57 @@
+services:
+    nifi:
+        ports:
+            - "8443:8443"
+        volumes:
+            # - ./mysql-connector-j-8.0.31.jar:/opt/mysql-connector-j-8.0.31.jar
+            - /c/Users/alanm/Desktop/IABD/Big-Data/docker/mysql-connector-j-8.0.31.jar:/opt/mysql-connector-j-8.0.31.jar
+            - ./Data/nifi:/home/nifi
+        # image: apache/nifi:latest
+        image: apache/nifi:1.28.0
+        container_name: etl-nifi
+        environment:
+            SINGLE_USER_CREDENTIALS_USERNAME: nifi
+            SINGLE_USER_CREDENTIALS_PASSWORD: nifinifinifi
+            NIFI_JVM_HEAP_MAX: 2g
+        links:
+            - mongodb
+            - mysql
+            - kafka
+    mysql:
+        image: mysql:5.6
+        container_name: etl-mysql
+        volumes:
+            - ./Data/mysql:/var/lib/mysql
+#        restart: always
+#        command: --default-authentication-plugin=mysql_native_password
+        ports:
+            - "3307:3306"
+        environment:
+            TZ: Europe/Madrid
+            MYSQL_ROOT_PASSWORD: Qwe_1234
+#            MYSQL_DATABASE: BigData
+#            MYSQL_USER: iabd
+#            MYSQL_PASSWORD: iabd
+    mongodb:
+        ports:
+            - "27017:27017"
+        image: mongo:3.7
+        container_name: etl-mongo
+        volumes:
+            - ./Data/mongo:/data/db
+
+    kafka:
+        image: apache/kafka:latest
+        container_name: etl-kafka
+        ports:
+            - "9092:9092"
+        environment:
+            KAFKA_PROCESS_ROLES: 'broker,controller'
+            KAFKA_NODE_ID: 1
+            KAFKA_CONTROLLER_QUORUM_VOTERS: '1@kafka:9093'
+            KAFKA_LISTENERS: 'PLAINTEXT://kafka:29092,CONTROLLER://kafka:9093,PLAINTEXT_HOST://0.0.0.0:9092'
+            KAFKA_ADVERTISED_LISTENERS: 'PLAINTEXT://kafka:29092,PLAINTEXT_HOST://localhost:9092'
+            KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: 'CONTROLLER:PLAINTEXT,PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT'
+            KAFKA_CONTROLLER_LISTENER_NAMES: 'CONTROLLER'
+            CLUSTER_ID: "123456"  # Un valor fijo simple para desarrollo
+

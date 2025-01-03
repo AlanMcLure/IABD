@@ -1,0 +1,18 @@
+docker compose -p etl up -d
+
+Completadas ${filename:endsWith('feedback_completed.csv)}
+Encuestas ${filename:endsWith('feedback.csv')}
+Items ${filename:endsWith('feedback_item.csv')}
+Resultados ${filename:endsWith('feedback_value.csv')}
+
+docker exec -it elt-mysql mysql -u root -p
+
+Qwe_1234
+
+Create database BigData;
+Use BigData;
+create table Preguntas (
+    id_preguntas int,
+    id_tipo int,
+    nombre varchar(200)
+);

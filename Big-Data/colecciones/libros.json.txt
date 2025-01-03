@@ -1,0 +1,42 @@
+[
+    {
+        "Titulo": "Cien años de soledad",
+        "Autor": "Gabriel García Márquez",
+        "Editorial": "Sudamericana",
+        "Precio": 15.99,
+        "Paginas": 471,
+        "EnStock": true
+    },
+    {
+        "Titulo": "1984",
+        "Autor": "George Orwell",
+        "Editorial": "Secker & Warburg",
+        "Precio": 12.50,
+        "Paginas": 480,
+        "EnStock": false
+    },
+    {
+        "Titulo": "El principito",
+        "Autor": "Antoine de Saint-Exupéry",
+        "Editorial": "Reynal & Hitchcock",
+        "Precio": 9.99,
+        "Paginas": 96,
+        "EnStock": true
+    },
+    {
+        "Titulo": "Don Quijote de la Mancha",
+        "Autor": "Miguel de Cervantes",
+        "Editorial": "Planeta",
+        "Precio": 18.75,
+        "Paginas": 863,
+        "EnStock": true
+    },
+    {
+        "Titulo": "El señor de los anillos",
+        "Autor": "J.R.R. Tolkien",
+        "Editorial": "Debolsillo",
+        "Precio": 25.00,
+        "Paginas": 1216,
+        "EnStock": false
+    }
+]

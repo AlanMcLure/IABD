@@ -1,0 +1,100 @@
+[
+    {
+        "_id": "9788408117117",
+        "titulo": "Circo Máximo",
+        "autor": "Santiago Posteguillo",
+        "editorial": "Planeta",
+        "enstock": true,
+        "paginas": 1100,
+        "precio": 21.75,
+        "fecha": "2013-08-29T00:00:00Z"
+    },
+    {
+        "_id": "9788401342158",
+        "titulo": "El juego de Ripper",
+        "autor": "Isabel Allende",
+        "editorial": "Plaza & Janes",
+        "enstock": true,
+        "paginas": 480,
+        "precio": 21.75,
+        "fecha": "2014-03-01T00:00:00Z"
+    },
+    {
+        "_id": "9788496208919",
+        "titulo": "Juego de tronos: Canción de hielo y fuego 1",
+        "autor": "George R.R. Martin",
+        "editorial": "Gigamesh",
+        "enstock": true,
+        "paginas": 793,
+        "precio": 9.5,
+        "fecha": "2011-11-24T00:00:00Z"
+    },
+    {
+        "_id": "9788499088075",
+        "titulo": "La ladrona de libros",
+        "autor": "Markus Zusak",
+        "editorial": "Debolsillo",
+        "enstock": false,
+        "paginas": 544,
+        "precio": 9.45,
+        "fecha": "2009-01-09T00:00:00Z"
+    },
+    {
+        "_id": "9788415140054",
+        "titulo": "La princesa de hielo",
+        "autor": "Camilla Lackberg",
+        "editorial": "Embolsillo",
+        "enstock": true,
+        "precio": 11,
+        "fecha": "2012-10-30"
+    },
+    {
+        "_id": "9788408113331",
+        "titulo": "Las carreras de Escorpio",
+        "autor": "Maggie Stiefvater",
+        "editorial": "Planeta",
+        "enstock": false,
+        "paginas": 290,
+        "precio": 17.23,
+        "fecha": "2013-06-04T00:00:00Z"
+    },
+    {
+        "_id": "9788468738895",
+        "titulo": "Las reglas del juego",
+        "autor": "Anna Casanovas",
+        "enstock": false,
+        "paginas": 360,
+        "precio": 15.90,
+        "fecha": "2014-02-06T00:00:00Z"
+    },
+    {
+        "_id": "9788408118329",
+        "titulo": "Los asesinos del emperador",
+        "autor": "Santiago Posteguillo",
+        "editorial": "Planeta",
+        "enstock": true,
+        "paginas": 1137,
+        "precio": 12.95,
+        "fecha": "2012-05-19T00:00:00Z"
+    },
+    {
+        "_id": "9788466637688",
+        "titulo": "Las legiones malditas",
+        "autor": "Santiago Posteguillo",
+        "editorial": "Planeta",
+        "enstock": true,
+        "paginas": 860,
+        "precio": 22.00,
+        "fecha": "2008-11-19T00:00:00Z"
+    },
+    {
+        "_id": "9788496208681",
+        "titulo": "Choque de reyes: Canción de hielo y fuego 2",
+        "autor": "George R.R. Martin",
+        "editorial": "Gigamesh",
+        "enstock": true,
+        "paginas": 928,
+        "precio": 12.00,
+        "fecha": "2009-01-24T00:00:00Z"
+    }
+]

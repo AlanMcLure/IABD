@@ -1,0 +1,5 @@
+Big-Data/docker/Data/mongo
+Big-Data/docker/Data/mysql
+*.ova
+*.venv
+*.conda
